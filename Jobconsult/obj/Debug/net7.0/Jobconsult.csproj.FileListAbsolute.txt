@@ -1,0 +1,15 @@
+C:\Users\ganesh\Documents\GitHub\jobconsultancy\Jobconsult\bin\Debug\net7.0\Jobconsult.exe
+C:\Users\ganesh\Documents\GitHub\jobconsultancy\Jobconsult\bin\Debug\net7.0\Jobconsult.deps.json
+C:\Users\ganesh\Documents\GitHub\jobconsultancy\Jobconsult\bin\Debug\net7.0\Jobconsult.runtimeconfig.json
+C:\Users\ganesh\Documents\GitHub\jobconsultancy\Jobconsult\bin\Debug\net7.0\Jobconsult.dll
+C:\Users\ganesh\Documents\GitHub\jobconsultancy\Jobconsult\bin\Debug\net7.0\Jobconsult.pdb
+C:\Users\ganesh\Documents\GitHub\jobconsultancy\Jobconsult\obj\Debug\net7.0\Jobconsult.csproj.AssemblyReference.cache
+C:\Users\ganesh\Documents\GitHub\jobconsultancy\Jobconsult\obj\Debug\net7.0\Jobconsult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganesh\Documents\GitHub\jobconsultancy\Jobconsult\obj\Debug\net7.0\Jobconsult.AssemblyInfoInputs.cache
+C:\Users\ganesh\Documents\GitHub\jobconsultancy\Jobconsult\obj\Debug\net7.0\Jobconsult.AssemblyInfo.cs
+C:\Users\ganesh\Documents\GitHub\jobconsultancy\Jobconsult\obj\Debug\net7.0\Jobconsult.csproj.CoreCompileInputs.cache
+C:\Users\ganesh\Documents\GitHub\jobconsultancy\Jobconsult\obj\Debug\net7.0\Jobconsult.dll
+C:\Users\ganesh\Documents\GitHub\jobconsultancy\Jobconsult\obj\Debug\net7.0\refint\Jobconsult.dll
+C:\Users\ganesh\Documents\GitHub\jobconsultancy\Jobconsult\obj\Debug\net7.0\Jobconsult.pdb
+C:\Users\ganesh\Documents\GitHub\jobconsultancy\Jobconsult\obj\Debug\net7.0\Jobconsult.genruntimeconfig.cache
+C:\Users\ganesh\Documents\GitHub\jobconsultancy\Jobconsult\obj\Debug\net7.0\ref\Jobconsult.dll
